@@ -1,6 +1,7 @@
 # IBM-HR-Employee_Attrition
 
 Employee Attrition Prediction
+
 📌 Overview
 This project analyzes employee attrition using Machine Learning techniques. It predicts whether an employee is likely to leave the company based on factors like job role, salary, work-life balance, and promotions.
 
@@ -22,8 +23,11 @@ Scikit-learn (Machine Learning Models)
 
 📂 Project Structure
 bash
+
 Copy
+
 Edit
+
 📁 Employee_Attrition  
  ├── 📄 Employee_Attrition.ipynb  # Jupyter Notebook with code & analysis  
  ├── 📄 requirements.txt          # Dependencies required for the project  
@@ -61,6 +65,3 @@ Confusion Matrix: Visualizes classification performance
 📜 License
 This project is open-source under the MIT License.
 
-🤝 Connect with Me
-🔗 GitHub: dhanunjaireddy07
-🔗 LinkedIn: Dhanunjai Reddy
